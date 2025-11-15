@@ -25,4 +25,4 @@ Esta é uma **calculadora simples** desenvolvida em **Python** utilizando **Tkin
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/calculadora-tkinter.git
+git clone https://github.com/E-Danillo/calculadora.git
